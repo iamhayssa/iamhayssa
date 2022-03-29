@@ -2,9 +2,9 @@
 
 I am an economist and soon-to-be master in ethics who is flirting with data science. 
 
-- 🌱 I’m currently learning Python for data analysis purpose
+- 🌱 I’m currently learning Python for data analysis purposes
 - 🤔 I’m looking for help with Python
-- 📫 How to reach me: hayssa.rodrigues@ruhr-uni-bochum.de or send a message on LinkedIn
+- 📫 How to reach me: hayssa.rodrigues@ruhr-uni-bochum.de or send me a message on LinkedIn
 - 😄 Pronouns: she/her
 
 Languages and Tools: 
